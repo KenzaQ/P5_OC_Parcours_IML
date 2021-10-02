@@ -1,4 +1,4 @@
-# Projet 5 du Parcours Ingénieur Machine Learning OpenClassrooms Catégorisez automatiquement des questions
+# Projet 5 du Parcours Ingénieur Machine Learning OpenClassrooms - Catégorisez automatiquement des questions
 
 Vous travaillez pour la ville de Seattle. Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, votre équipe s’intéresse de près aux émissions des bâtiments non destinés à l’habitation.
 
